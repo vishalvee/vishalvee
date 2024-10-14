@@ -60,7 +60,7 @@ I’ll be sharing my full-stack projects here, demonstrating my understanding of
 ---
 
 ## 🌐 Let's Connect!
-- **GitHub:** [My GitHub Profile](https://github.com/YourGitHubUsername)
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/YourLinkedInProfile)
+- **GitHub:** [My GitHub Profile](https://github.com/vishalvee)
+
 
 Thanks for visiting my profile! I'm excited to share my progress as I grow as a **MERN stack developer**.
