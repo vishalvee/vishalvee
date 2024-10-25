@@ -1,6 +1,6 @@
-# MERN Stack Developer Journey
+# MERN Stack Developer Journey📈
 
-Welcome to my GitHub profile! 👋 I'm on a journey to become a **MERN Stack Developer** and I'm excited to share my progress, projects, and learning experience with you.
+Welcome to my GitHub profile! 👋 <h1>My Name is VISHAL🧑‍🦱<h1> I'm on a journey to become a **MERN Stack Developer** and I'm excited to share my progress, projects, and learning experience with you.
 
 ## About Me
 
