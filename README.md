@@ -4,8 +4,7 @@ Welcome to my GitHub profile! 👋 <h1>My Name is VISHAL🧑‍🦱<h1> I'm on a
 
 ## About Me
 
-I'm a **Bachelor's in Computer Applications (BCA)** graduate, currently diving into full-stack development with a focus on **MERN (MongoDB, Express, React, Node.js)**. My goal is to build robust, dynamic web applications and continually improve my coding skills.
-
+I'm a **Bachelor's in Computer Applications (BCA)** graduate, currently diving into full-stack development with a focus on **MERN (MongoDB, Express, React, Node.js)**. I have successfully completed learning HTML, CSS, and Bootstrap, and my goal is to build robust, dynamic web applications and continually improve my coding skills.
 ---
 
 ## 🛠️ Skills & Technologies
